@@ -3,7 +3,7 @@
         <div class="box_o">
             <div class="content">
                 <p class="title">收款码</p>
-                <img src="http://p1.meituan.net/codeman/826a5ed09dab49af658c34624d75491861404.jpg" alt="" />
+                <img src="@/assets/1.jpg.jpg" alt="" />
                 <p class="user">王发财 &nbsp; &nbsp;(123****4567)</p>
                 <p class="note">
                     备注：系统默认收取10%的手续费，用户也可以根据实际情况，手动点击手续费比例调整，点击【确认修改】生成新的收款码
